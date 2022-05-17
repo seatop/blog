@@ -1,2 +1,1 @@
-# shuxuesuibi
-shuxuesuibi
+数学随笔
