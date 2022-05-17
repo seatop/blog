@@ -1,10 +1,9 @@
 remote_theme: riggraz/no-style-please
-title: seatop's 数学随笔
+title: Seatop's 数学随笔
 author: seatop
 email: seatop@hotmail.com
 url: https://www.seatop.com.cn/
 baseurl: ""
-description: 一个数学教师的思考
 permalink: /:slug.html
 theme_config:
   appearance: "light"
