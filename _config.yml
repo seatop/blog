@@ -10,7 +10,7 @@ theme_config:
   appearance: "light"
   back_home_text: "返回首页"
   date_format: "%Y-%m-%d"
-  show_description: true
+  show_description: false
 
 plugins:
   - jekyll-feed
