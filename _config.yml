@@ -4,13 +4,13 @@ author: seatop
 email: seatop@hotmail.com
 url: https://www.seatop.com.cn/
 baseurl: ""
-description: 一个数学教师的自白
+description: 一个数学教师的思考
 permalink: /:slug.html
 theme_config:
   appearance: "light"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  back_home_text: "返回首页"
+  date_format: "%Y-%m-%d"
+  show_description: true
 
 plugins:
   - jekyll-feed
