@@ -30,6 +30,12 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-  - title: PRO TIP
+  - title: 友情链接
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: 数学爱好者
+        url: http://www.mathfan.com/
+      - title: 科学空间
+        url: https://spaces.ac.cn/
+      - title: TOMMYHU
+        url: http://tommyhu.cn/
+      
