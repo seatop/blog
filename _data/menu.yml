@@ -29,4 +29,5 @@ entries:
         url: http://tommyhu.cn/
       - title: 苏公网安备 32062302000121号
         url: https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32062302000121
+  - title: Hosted on GitHub Pages,Theme uses <a href="https://github.com/riggraz/no-style-please">no-style-please</a>
       
