@@ -1,24 +1,12 @@
 entries:
-  - title: GitHub.com
-    url: https://github.com/seatop/blog
-    
-  - title: all posts
+  
+  - title: 最近的博客
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-    
+  
   - title: 友情链接
     entries:
       - title: 数学爱好者
@@ -27,7 +15,9 @@ entries:
         url: https://spaces.ac.cn/
       - title: TOMMYHU
         url: http://tommyhu.cn/
-      - title: 苏公网安备 32062302000121号
+      - title: GitHub.com
+        url: https://github.com/seatop/blog 
+      - title: Hosted on GitHub Pages,Theme uses <a href="https://github.com/riggraz/no-style-please">no-style-please</a>
+      - title: 苏公网安备 32062302000121号     
         url: https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32062302000121
-  - title: Hosted on GitHub Pages,Theme uses <a href="https://github.com/riggraz/no-style-please">no-style-please</a>
       
