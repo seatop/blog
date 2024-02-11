@@ -21,3 +21,11 @@ title: 使用typora写Markdown格式的文档
 <?php echo "hello world!";>
 ```
 
+$2_23^2$
+
+
+
+
+
+
+
