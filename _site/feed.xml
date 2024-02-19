@@ -1,11 +1,90 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-11T21:17:50+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seatop’s blog</title><author><name>seatop</name></author><entry><title type="html">2024,甲辰</title><link href="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html" rel="alternate" type="text/html" title="2024,甲辰" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82</id><content type="html" xml:base="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html"><![CDATA[<p>春节快乐！</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[春节快乐！]]></summary></entry><entry><title type="html">圆球类比</title><link href="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html" rel="alternate" type="text/html" title="圆球类比" /><published>2022-05-27T00:00:00+08:00</published><updated>2022-05-27T00:00:00+08:00</updated><id>http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94</id><content type="html" xml:base="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html"><![CDATA[<p>前几天，大学同学与我讨论的一个问题.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-19T09:37:15+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seatop’s blog</title><author><name>seatop</name></author><entry><title type="html">Markdown 测试 1</title><link href="http://localhost:4000/markdown-%E6%B5%8B%E8%AF%95-1.html" rel="alternate" type="text/html" title="Markdown 测试 1" /><published>2024-02-19T00:00:00+08:00</published><updated>2024-02-19T00:00:00+08:00</updated><id>http://localhost:4000/markdown-%E6%B5%8B%E8%AF%95-1</id><content type="html" xml:base="http://localhost:4000/markdown-%E6%B5%8B%E8%AF%95-1.html">&lt;h1 id=&quot;这是一级标题&quot;&gt;这是一级标题&lt;/h1&gt;
 
-<p>已知A,B,C,D是半径为4的球面上四点，E,F分别为AB,CD的中点，AB=4√3,CD=2√7,</p>
+&lt;h6 id=&quot;这是六级标题&quot;&gt;这是六级标题&lt;/h6&gt;
 
-<p>则以EF为直径的球的最小表面积为__<strong>__</strong><strong>__</strong>_；</p>
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;标题1&lt;/th&gt;
+      &lt;th&gt;标题二&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;内容1&lt;/td&gt;
+      &lt;td&gt;内容2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-<p>若A,B,C,D不共面，则四面体ABCD体积的最大值为__<strong>__</strong><strong>__</strong>_.</p>
+\[x^2+x+1=2\]
 
-<p>圆中弦长为定值时，弦的中点的轨迹仍是圆；</p>
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;php&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;hello&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;world&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;!&quot;;&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;?&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-<p>球中弦长为定值，则弦的中点的轨迹为球面.</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[前几天，大学同学与我讨论的一个问题.]]></summary></entry><entry><title type="html">post文档支持中文名吗</title><link href="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html" rel="alternate" type="text/html" title="post文档支持中文名吗" /><published>2022-05-26T00:00:00+08:00</published><updated>2022-05-26T00:00:00+08:00</updated><id>http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97</id><content type="html" xml:base="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html"><![CDATA[<p>是否可以使用含中文的文件名称，如：2022-05-26-中文名.md</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[是否可以使用含中文的文件名称，如：2022-05-26-中文名.md]]></summary></entry><entry><title type="html">新的网站</title><link href="http://localhost:4000/first.html" rel="alternate" type="text/html" title="新的网站" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>http://localhost:4000/first</id><content type="html" xml:base="http://localhost:4000/first.html"><![CDATA[<p>新网站，新思考！</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[新网站，新思考！]]></summary></entry></feed>
+&lt;blockquote&gt;
+  &lt;p&gt;[!IMPORTANT]&lt;/p&gt;
+
+  &lt;p&gt;重要内容&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;任务1&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;任务2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;无序列表1&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;无序列表2&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>seatop</name></author><summary type="html">这是一级标题</summary></entry><entry><title type="html">使用typora写Markdown格式的文档</title><link href="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html" rel="alternate" type="text/html" title="使用typora写Markdown格式的文档" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99Markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3</id><content type="html" xml:base="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html">&lt;h1 id=&quot;这是一级标题&quot;&gt;这是一级标题&lt;/h1&gt;
+
+&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;标题&lt;/th&gt;
+      &lt;th&gt;一&lt;/th&gt;
+      &lt;th&gt;二&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;目标&lt;/td&gt;
+      &lt;td&gt;三&lt;/td&gt;
+      &lt;td&gt;四&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;阶段&lt;/td&gt;
+      &lt;td&gt;五&lt;/td&gt;
+      &lt;td&gt;六&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;错误&lt;/td&gt;
+      &lt;td&gt;七&lt;/td&gt;
+      &lt;td&gt;八&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[!WARNING]&lt;/p&gt;
+
+  &lt;p&gt;这是警告&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;?php echo &quot;hello world!&quot;;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;$2_23^2$&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">这是一级标题</summary></entry><entry><title type="html">2024,甲辰</title><link href="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html" rel="alternate" type="text/html" title="2024,甲辰" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82</id><content type="html" xml:base="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html">&lt;p&gt;春节快乐！&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">春节快乐！</summary></entry><entry><title type="html">圆球类比</title><link href="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html" rel="alternate" type="text/html" title="圆球类比" /><published>2022-05-27T00:00:00+08:00</published><updated>2022-05-27T00:00:00+08:00</updated><id>http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94</id><content type="html" xml:base="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html">&lt;p&gt;前几天，大学同学与我讨论的一个问题.&lt;/p&gt;
+
+&lt;p&gt;已知A,B,C,D是半径为4的球面上四点，E,F分别为AB,CD的中点，AB=4√3,CD=2√7,&lt;/p&gt;
+
+&lt;p&gt;则以EF为直径的球的最小表面积为__&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_；&lt;/p&gt;
+
+&lt;p&gt;若A,B,C,D不共面，则四面体ABCD体积的最大值为__&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_.&lt;/p&gt;
+
+&lt;p&gt;圆中弦长为定值时，弦的中点的轨迹仍是圆；&lt;/p&gt;
+
+&lt;p&gt;球中弦长为定值，则弦的中点的轨迹为球面.&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">前几天，大学同学与我讨论的一个问题.</summary></entry><entry><title type="html">post文档支持中文名吗</title><link href="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html" rel="alternate" type="text/html" title="post文档支持中文名吗" /><published>2022-05-26T00:00:00+08:00</published><updated>2022-05-26T00:00:00+08:00</updated><id>http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97</id><content type="html" xml:base="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html">&lt;p&gt;是否可以使用含中文的文件名称，如：2022-05-26-中文名.md&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">是否可以使用含中文的文件名称，如：2022-05-26-中文名.md</summary></entry><entry><title type="html">新的网站</title><link href="http://localhost:4000/first.html" rel="alternate" type="text/html" title="新的网站" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>http://localhost:4000/first</id><content type="html" xml:base="http://localhost:4000/first.html">&lt;p&gt;新网站，新思考！&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">新网站，新思考！</summary></entry></feed>
