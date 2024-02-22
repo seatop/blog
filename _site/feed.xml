@@ -1,196 +1,229 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-20T16:08:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seatop’s blog</title><author><name>seatop</name></author><entry><title type="html">2024上半年课表</title><link href="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2024上半年课表" /><published>2024-02-20T00:00:00+08:00</published><updated>2024-02-20T00:00:00+08:00</updated><id>http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html">&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;时段&lt;/th&gt;
-      &lt;th&gt;一&lt;/th&gt;
-      &lt;th&gt;二&lt;/th&gt;
-      &lt;th&gt;三&lt;/th&gt;
-      &lt;th&gt;四&lt;/th&gt;
-      &lt;th&gt;五&lt;/th&gt;
-      &lt;th&gt;六&lt;/th&gt;
-      &lt;th&gt;日&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;7:30-8:15&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;7:15周&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;8:25-9:10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;9:15练&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;9:40-10:25&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;10:40-11:25&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;11:55-12:40&lt;/td&gt;
-      &lt;td&gt;8,10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8,10&lt;/td&gt;
-      &lt;td&gt;8,10&lt;/td&gt;
-      &lt;td&gt;8,10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;13:40-14:25&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;14:40-15:25&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;15:55-16:40&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;16:50-17:40&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;18:10-19:00&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;19:00-19:50&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;20:00-20:55&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;20:55-21:50&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>seatop</name></author><summary type="html">时段 一 二 三 四 五 六 日 7:30-8:15       8     7:15周 8:25-9:10   8   8     9:15练 9:40-10:25 10 10 8 10       10:40-11:25 8   10 10       11:55-12:40 8,10   8,10 8,10 8,10     13:40-14:25     8   10     14:40-15:25     10   10     15:55-16:40         8     16:50-17:40         8     18:10-19:00   10       10   19:00-19:50   10     8 10   20:00-20:55 10 8     10 8   20:55-21:50 8 8       8  </summary></entry><entry><title type="html">使用typora写Markdown格式的文档</title><link href="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html" rel="alternate" type="text/html" title="使用typora写Markdown格式的文档" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99Markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3</id><content type="html" xml:base="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html">&lt;h1 id=&quot;这是一级标题&quot;&gt;这是一级标题&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-22T15:23:17+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seatop’s blog</title><author><name>seatop</name></author><entry><title type="html">2023-2024第二学期教学进度</title><link href="http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6.html" rel="alternate" type="text/html" title="2023-2024第二学期教学进度" /><published>2024-02-22T00:00:00+08:00</published><updated>2024-02-22T00:00:00+08:00</updated><id>http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6</id><content type="html" xml:base="http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6.html"><![CDATA[<h1 id="本学期教学进度">本学期教学进度</h1>
 
-&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;
+<h2 id="期中">期中</h2>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;标题&lt;/th&gt;
-      &lt;th&gt;一&lt;/th&gt;
-      &lt;th&gt;二&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;目标&lt;/td&gt;
-      &lt;td&gt;三&lt;/td&gt;
-      &lt;td&gt;四&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;阶段&lt;/td&gt;
-      &lt;td&gt;五&lt;/td&gt;
-      &lt;td&gt;六&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;错误&lt;/td&gt;
-      &lt;td&gt;七&lt;/td&gt;
-      &lt;td&gt;八&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<ul>
+  <li>二项式定理</li>
+  <li>导数</li>
+  <li>概率</li>
+  <li>统计</li>
+</ul>
 
-&lt;blockquote&gt;
-  &lt;p&gt;[!WARNING]&lt;/p&gt;
+<h2 id="期末">期末</h2>
 
-  &lt;p&gt;这是警告&lt;/p&gt;
-&lt;/blockquote&gt;
+<h3 id="立体几何">立体几何</h3>
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;?php echo &quot;hello world!&quot;;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+<ul>
+  <li>立体几何初步</li>
+  <li>空间向量与立体几何</li>
+</ul>
 
-&lt;p&gt;$2_23^2$&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">这是一级标题</summary></entry><entry><title type="html">2024,甲辰</title><link href="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html" rel="alternate" type="text/html" title="2024,甲辰" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82</id><content type="html" xml:base="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html">&lt;p&gt;春节快乐！&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">春节快乐！</summary></entry><entry><title type="html">圆球类比</title><link href="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html" rel="alternate" type="text/html" title="圆球类比" /><published>2022-05-27T00:00:00+08:00</published><updated>2022-05-27T00:00:00+08:00</updated><id>http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94</id><content type="html" xml:base="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html">&lt;p&gt;前几天，大学同学与我讨论的一个问题.&lt;/p&gt;
+<h3 id="概率统计">概率统计</h3>
 
-&lt;p&gt;已知A,B,C,D是半径为4的球面上四点，E,F分别为AB,CD的中点，AB=4√3,CD=2√7,&lt;/p&gt;
+<ul>
+  <li>计数原理</li>
+  <li>概率</li>
+  <li>统计</li>
+</ul>
 
-&lt;p&gt;则以EF为直径的球的最小表面积为__&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_；&lt;/p&gt;
+<h3 id="函数与导数">函数与导数</h3>
 
-&lt;p&gt;若A,B,C,D不共面，则四面体ABCD体积的最大值为__&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_.&lt;/p&gt;
+<ul>
+  <li>函数</li>
+  <li>导数</li>
+</ul>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[本学期教学进度]]></summary></entry><entry><title type="html">2024上半年课表</title><link href="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2024上半年课表" /><published>2024-02-20T00:00:00+08:00</published><updated>2024-02-20T00:00:00+08:00</updated><id>http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th>时段</th>
+      <th>一</th>
+      <th>二</th>
+      <th>三</th>
+      <th>四</th>
+      <th>五</th>
+      <th>六</th>
+      <th>日</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>7:30-8:15</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td> </td>
+      <td>7:15周</td>
+    </tr>
+    <tr>
+      <td>8:25-9:10</td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td> </td>
+      <td>9:15练</td>
+    </tr>
+    <tr>
+      <td>9:40-10:25</td>
+      <td>10</td>
+      <td>10</td>
+      <td>8</td>
+      <td>10</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:40-11:25</td>
+      <td>8</td>
+      <td> </td>
+      <td>10</td>
+      <td>10</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:55-12:40</td>
+      <td>8,10</td>
+      <td> </td>
+      <td>8,10</td>
+      <td>8,10</td>
+      <td>8,10</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:40-14:25</td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:40-15:25</td>
+      <td> </td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>15:55-16:40</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16:50-17:40</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18:10-19:00</td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19:00-19:50</td>
+      <td> </td>
+      <td>10</td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td>10</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20:00-20:55</td>
+      <td>10</td>
+      <td>8</td>
+      <td> </td>
+      <td> </td>
+      <td>10</td>
+      <td>8</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20:55-21:50</td>
+      <td>8</td>
+      <td>8</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[时段 一 二 三 四 五 六 日 7:30-8:15       8     7:15周 8:25-9:10   8   8     9:15练 9:40-10:25 10 10 8 10       10:40-11:25 8   10 10       11:55-12:40 8,10   8,10 8,10 8,10     13:40-14:25     8   10     14:40-15:25     10   10     15:55-16:40         8     16:50-17:40         8     18:10-19:00   10       10   19:00-19:50   10     8 10   20:00-20:55 10 8     10 8   20:55-21:50 8 8       8  ]]></summary></entry><entry><title type="html">2024,甲辰</title><link href="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html" rel="alternate" type="text/html" title="2024,甲辰" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82</id><content type="html" xml:base="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html"><![CDATA[<p>春节快乐！</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[春节快乐！]]></summary></entry><entry><title type="html">使用typora写Markdown格式的文档</title><link href="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html" rel="alternate" type="text/html" title="使用typora写Markdown格式的文档" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99Markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3</id><content type="html" xml:base="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html"><![CDATA[<h1 id="这是一级标题">这是一级标题</h1>
 
-&lt;p&gt;圆中弦长为定值时，弦的中点的轨迹仍是圆；&lt;/p&gt;
+<h2 id="这是二级标题">这是二级标题</h2>
 
-&lt;p&gt;球中弦长为定值，则弦的中点的轨迹为球面.&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">前几天，大学同学与我讨论的一个问题.</summary></entry><entry><title type="html">post文档支持中文名吗</title><link href="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html" rel="alternate" type="text/html" title="post文档支持中文名吗" /><published>2022-05-26T00:00:00+08:00</published><updated>2022-05-26T00:00:00+08:00</updated><id>http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97</id><content type="html" xml:base="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html">&lt;p&gt;是否可以使用含中文的文件名称，如：2022-05-26-中文名.md&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">是否可以使用含中文的文件名称，如：2022-05-26-中文名.md</summary></entry><entry><title type="html">新的网站</title><link href="http://localhost:4000/first.html" rel="alternate" type="text/html" title="新的网站" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>http://localhost:4000/first</id><content type="html" xml:base="http://localhost:4000/first.html">&lt;p&gt;新网站，新思考！&lt;/p&gt;</content><author><name>seatop</name></author><summary type="html">新网站，新思考！</summary></entry></feed>
+<table>
+  <thead>
+    <tr>
+      <th>标题</th>
+      <th>一</th>
+      <th>二</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>目标</td>
+      <td>三</td>
+      <td>四</td>
+    </tr>
+    <tr>
+      <td>阶段</td>
+      <td>五</td>
+      <td>六</td>
+    </tr>
+    <tr>
+      <td>错误</td>
+      <td>七</td>
+      <td>八</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>[!WARNING]</p>
+
+  <p>这是警告</p>
+</blockquote>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;?php echo "hello world!";&gt;
+</code></pre></div></div>
+
+<p>$2_23^2$</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[这是一级标题]]></summary></entry><entry><title type="html">圆球类比</title><link href="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html" rel="alternate" type="text/html" title="圆球类比" /><published>2022-05-27T00:00:00+08:00</published><updated>2022-05-27T00:00:00+08:00</updated><id>http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94</id><content type="html" xml:base="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html"><![CDATA[<p>前几天，大学同学与我讨论的一个问题.</p>
+
+<p>已知A,B,C,D是半径为4的球面上四点，E,F分别为AB,CD的中点，AB=4√3,CD=2√7,</p>
+
+<p>则以EF为直径的球的最小表面积为__<strong>__</strong><strong>__</strong>_；</p>
+
+<p>若A,B,C,D不共面，则四面体ABCD体积的最大值为__<strong>__</strong><strong>__</strong>_.</p>
+
+<p>圆中弦长为定值时，弦的中点的轨迹仍是圆；</p>
+
+<p>球中弦长为定值，则弦的中点的轨迹为球面.</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[前几天，大学同学与我讨论的一个问题.]]></summary></entry><entry><title type="html">post文档支持中文名吗</title><link href="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html" rel="alternate" type="text/html" title="post文档支持中文名吗" /><published>2022-05-26T00:00:00+08:00</published><updated>2022-05-26T00:00:00+08:00</updated><id>http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97</id><content type="html" xml:base="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html"><![CDATA[<p>是否可以使用含中文的文件名称，如：2022-05-26-中文名.md</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[是否可以使用含中文的文件名称，如：2022-05-26-中文名.md]]></summary></entry><entry><title type="html">新的网站</title><link href="http://localhost:4000/first.html" rel="alternate" type="text/html" title="新的网站" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>http://localhost:4000/first</id><content type="html" xml:base="http://localhost:4000/first.html"><![CDATA[<p>新网站，新思考！</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[新网站，新思考！]]></summary></entry></feed>
