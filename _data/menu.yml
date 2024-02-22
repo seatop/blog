@@ -2,9 +2,9 @@ entries:
   
   - title: 最近的博客
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
-      show_more_text: 存档
+      show_more_text: 查看存档
       show_more_url: archive.html
   
   - title: 友情链接
@@ -17,5 +17,5 @@ entries:
         url: https://github.com/seatop/blog/
       - title: Hosted on GitHub Pages
         url: https://pages.github.com/
-      - title: Theme:no-style-please
+      - title: no-style-please
         url: https://github.com/riggraz/no-style-please/
