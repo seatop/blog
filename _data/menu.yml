@@ -9,12 +9,10 @@ entries:
   
   - title: 友情链接
     entries:
-      - title: 数学爱好者
-        url: http://www.mathfan.com/
       - title: 科学空间
         url: https://spaces.ac.cn/
       - title: GitHub.com
-        url: https://github.com/seatop/blog/
+        url: https://github.com/
       - title: Hosted on GitHub Pages
         url: https://pages.github.com/
       - title: no-style-please
