@@ -1,8 +1,577 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-23T09:05:01+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seatop’s blog</title><author><name>seatop</name></author><entry><title type="html">ncm转mp3</title><link href="http://localhost:4000/ncm-to-mp3.html" rel="alternate" type="text/html" title="ncm转mp3" /><published>2024-02-22T00:00:00+08:00</published><updated>2024-02-22T00:00:00+08:00</updated><id>http://localhost:4000/ncm-to-mp3</id><content type="html" xml:base="http://localhost:4000/ncm-to-mp3.html"><![CDATA[<p>将ncm格式转换为mp3格式的一个网站：</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-08T14:23:26+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seatop’s blog</title><author><name>seatop</name></author><entry><title type="html">2025年4月7日版课表</title><link href="http://localhost:4000/2025-4%E6%9C%887%E6%97%A5%E7%89%88-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2025年4月7日版课表" /><published>2025-04-07T00:00:00+08:00</published><updated>2025-04-07T00:00:00+08:00</updated><id>http://localhost:4000/2025-4%E6%9C%887%E6%97%A5%E7%89%88-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2025-4%E6%9C%887%E6%97%A5%E7%89%88-%E8%AF%BE%E8%A1%A8.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">时段</th>
+      <th style="text-align: center">一</th>
+      <th style="text-align: center">二</th>
+      <th style="text-align: center">三</th>
+      <th style="text-align: center">四</th>
+      <th style="text-align: center">五</th>
+      <th style="text-align: center">六</th>
+      <th style="text-align: center">日</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">7:30-8:15</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8:25-9:10</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">集体</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">集体</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">9:40-10:25</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">备课</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">备课</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10:30-11:15</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11:45-12:40</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13:40-14:25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14:40-15:25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15:55-16:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16:45-17:30</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18:00-18:50</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18:50-19:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19:50-20:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">20:40-21:30</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">21:30-22:20</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[时段 一 二 三 四 五 六 日 7:30-8:15               8:25-9:10   集体   11 集体     9:40-10:25 11 备课     备课 11   10:30-11:15 11         11   11:45-12:40 11   11 11 11 11   13:40-14:25     11         14:40-15:25     11         15:55-16:40   11     11     16:45-17:30   11     11     18:00-18:50               18:50-19:40         11     19:50-20:40   11   11     11 20:40-21:30   11 11 11       21:30-22:20       11      ]]></summary></entry><entry><title type="html">中美数学基础教育对比分析</title><link href="http://localhost:4000/%E4%B8%AD%E7%BE%8E-%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2-%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.html" rel="alternate" type="text/html" title="中美数学基础教育对比分析" /><published>2025-03-17T00:00:00+08:00</published><updated>2025-03-17T00:00:00+08:00</updated><id>http://localhost:4000/%E4%B8%AD%E7%BE%8E-%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2-%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90</id><content type="html" xml:base="http://localhost:4000/%E4%B8%AD%E7%BE%8E-%E6%95%B0%E5%AD%A6-%E5%9F%BA%E7%A1%80%E6%95%99%E8%82%B2-%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.html"><![CDATA[<p>作者：deepseek</p>
 
-<p><a href="https://www.zhuanhuanyun.cn/">https://www.zhuanhuanyun.cn/</a></p>
+<p>中美数学基础教育在目标、方法和效果上存在显著差异，各有优势和不足。以下从多个维度进行对比分析：</p>
 
-<p>临时转换了个伴奏，免注册登录，速度快，赞一个。</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[将ncm格式转换为mp3格式的一个网站：]]></summary></entry><entry><title type="html">2023-2024第二学期教学进度</title><link href="http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6.html" rel="alternate" type="text/html" title="2023-2024第二学期教学进度" /><published>2024-02-22T00:00:00+08:00</published><updated>2024-02-22T00:00:00+08:00</updated><id>http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6</id><content type="html" xml:base="http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6.html"><![CDATA[<h1 id="本学期教学进度">本学期教学进度</h1>
+<h3 id="一教育体系与目标差异">一、教育体系与目标差异</h3>
+<ol>
+  <li><strong>中国教育特点</strong>：
+    <ul>
+      <li><strong>系统性</strong>：全国统一大纲（如《义务教育数学课程标准》），强调知识体系的连贯性。</li>
+      <li><strong>深度优先</strong>：小学阶段即引入复杂运算（如四则混合运算），初中开始接触几何证明与代数思维。</li>
+      <li><strong>考试驱动</strong>：中考、高考形成强筛选机制，数学占总分比例高（如高考150/750分）。</li>
+    </ul>
+  </li>
+  <li><strong>美国教育特点</strong>：
+    <ul>
+      <li><strong>分权管理</strong>：各州自主制定标准（如Common Core State Standards），教学内容差异较大。</li>
+      <li><strong>应用导向</strong>：强调数学与生活联系，小学阶段即引入统计、概率等实用内容。</li>
+      <li><strong>能力分层</strong>：普遍实行Track制度，高中开设AP Calculus（大学先修课程）与普通课程并存。</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="二教学内容对比以初中为例">二、教学内容对比（以初中为例）</h3>
+<p>| 内容领域 | 中国（人教版）           | 美国（Common Core）        |
+| ——– | ———————— | ————————– |
+| 代数     | 七年级学习一元二次方程   | 八年级才接触线性方程       |
+| 几何     | 初二系统学习欧式几何证明 | 侧重图形性质探究，证明较少 |
+| 统计     | 初三基础概率与统计       | 六年级开始数据分布分析     |</p>
+
+<h3 id="三国际测评数据">三、国际测评数据</h3>
+<ul>
+  <li><strong>PISA 2022数学排名</strong>：
+    <ul>
+      <li>中国（北京-上海-江苏-浙江）：591分（第1位）</li>
+      <li>美国：465分（第28位）</li>
+    </ul>
+  </li>
+  <li><strong>TIMSS 2019（八年级）</strong>：
+    <ul>
+      <li>中国：591分（第4位）</li>
+      <li>美国：515分（第11位）</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="四教学法差异">四、教学法差异</h3>
+<ol>
+  <li><strong>中国典型课堂</strong>：
+    <ul>
+      <li>教师主导的”讲授-练习-测试”循环</li>
+      <li>每日数学作业时间约1.5-2小时</li>
+      <li>普遍使用《五年中考三年模拟》等刷题教辅</li>
+    </ul>
+  </li>
+  <li><strong>美国典型课堂</strong>：
+    <ul>
+      <li>项目式学习（如设计校园绿化方案计算成本）</li>
+      <li>小组合作与课堂展示占比30%以上</li>
+      <li>使用Desmos等可视化工具辅助教学</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="五优势与挑战">五、优势与挑战</h3>
+<p><strong>中国优势</strong>：</p>
+<ul>
+  <li>学生计算速度快（测试显示中国四年级学生计算速度比美国快40%）</li>
+  <li>几何证明能力突出（中考压轴题难度接近美国AP课程）</li>
+  <li>教师学科素养高（92%初中数学教师拥有数学专业本科以上学历）</li>
+</ul>
+
+<p><strong>美国优势</strong>：</p>
+<ul>
+  <li>数学焦虑感较低（NCTM调查显示美国学生数学焦虑指数比中国低15%）</li>
+  <li>跨学科应用能力强（STEM项目整合数学与工程实践）</li>
+  <li>特殊人才培养机制（约5%学生通过AMC竞赛体系进入高阶学习）</li>
+</ul>
+
+<h3 id="六深层差异解析">六、深层差异解析</h3>
+<ol>
+  <li><strong>文化认知差异</strong>：
+    <ul>
+      <li>东亚”努力至上”观念（Dweck思维模式理论）</li>
+      <li>西方”天赋导向”倾向（STEM领域性别差距更大）</li>
+    </ul>
+  </li>
+  <li><strong>教师培养体系</strong>：
+    <ul>
+      <li>中国：师范院校定向培养，持续集体备课制度</li>
+      <li>美国：多元化准入路径，28%中学数学教师非专业背景</li>
+    </ul>
+  </li>
+  <li><strong>技术整合程度</strong>：
+    <ul>
+      <li>中国：智慧课堂普及率达67%，但多用于习题讲解</li>
+      <li>美国：92%学校使用自适应学习系统（如Khan Academy）</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="七发展趋势">七、发展趋势</h3>
+<ol>
+  <li><strong>中国教改方向</strong>：
+    <ul>
+      <li>增加跨学科实践（新课标2022要求不少于10%课时）</li>
+      <li>推行”双减”政策控制作业量</li>
+      <li>加强数学建模能力培养</li>
+    </ul>
+  </li>
+  <li><strong>美国应对措施</strong>：
+    <ul>
+      <li>推广新加坡数学教材（全美12%学区采用）</li>
+      <li>加大教师专业发展投入（每年$3亿专项基金）</li>
+      <li>强化计算流畅性训练（Fluency Without Fear项目）</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="八理性建议">八、理性建议</h3>
+<p>对于个体选择：</p>
+<ul>
+  <li>计划STEM深造者：建议初中前夯实中国体系基础，高中阶段衔接美国AP/IB高阶课程</li>
+  <li>侧重创新能力培养：可考虑美式项目式学习+课外竞赛补充</li>
+  <li>教育者参考：可融合中国的问题串教学设计与美国的锚式情境教学</li>
+</ul>
+
+<p>总体而言，两国数学教育呈现”深度vs广度”、”统一性vs灵活性”的差异化特征。在经济全球化背景下，理想模式或在于建立”概念理解-技能熟练-应用创新”的三维培养体系，这需要教育决策者超越简单的优劣比较，进行结构性创新。</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[作者：deepseek]]></summary></entry><entry><title type="html">2025上半年课表</title><link href="http://localhost:4000/2025-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2025上半年课表" /><published>2025-02-15T00:00:00+08:00</published><updated>2025-02-15T00:00:00+08:00</updated><id>http://localhost:4000/2025-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2025-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">时段</th>
+      <th style="text-align: center">一</th>
+      <th style="text-align: center">二</th>
+      <th style="text-align: center">三</th>
+      <th style="text-align: center">四</th>
+      <th style="text-align: center">五</th>
+      <th style="text-align: center">六</th>
+      <th style="text-align: center">日</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">7:30-8:15</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8:25-9:10</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">集体</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">集体</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">9:40-10:25</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">备课</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">备课</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10:30-11:15</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11:45-12:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13:40-14:25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">周</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14:40-15:25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">练</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16:55-16:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16:45-17:30</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18:00-19:00</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19:00-20:00</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">20:10-21:05</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">21:05-22:00</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[时段 一 二 三 四 五 六 日 7:30-8:15               8:25-9:10   集体     集体     9:40-10:25 11 备课   11 备课 11   10:30-11:15 11   11     11   11:45-12:40   11   11   11   13:40-14:25   11         周 14:40-15:25   11         练 16:55-16:40         11     16:45-17:30         11     18:00-19:00 11             19:00-20:00               20:10-21:05   11 11 11 11     21:05-22:00     11 11      ]]></summary></entry><entry><title type="html">高中数学课本电子版</title><link href="http://localhost:4000/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E8%AF%BE%E6%9C%AC.html" rel="alternate" type="text/html" title="高中数学课本电子版" /><published>2024-07-24T00:00:00+08:00</published><updated>2024-07-24T00:00:00+08:00</updated><id>http://localhost:4000/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E8%AF%BE%E6%9C%AC</id><content type="html" xml:base="http://localhost:4000/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E8%AF%BE%E6%9C%AC.html"><![CDATA[<h1 id="试读下载地址">试读下载地址</h1>
+
+<p><a href="http://d1.zhepianyun.com/d/10036152-61670215-c092d6?p=1925">http://d1.zhepianyun.com/d/10036152-61670215-c092d6?p=1925</a> （访问密码：1925）</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[试读下载地址]]></summary></entry><entry><title type="html">2024下半年课表</title><link href="http://localhost:4000/2024-%E4%B8%8B%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2024下半年课表" /><published>2024-07-20T00:00:00+08:00</published><updated>2024-07-20T00:00:00+08:00</updated><id>http://localhost:4000/2024-%E4%B8%8B%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2024-%E4%B8%8B%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html"><![CDATA[<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">时段</th>
+      <th style="text-align: center">一</th>
+      <th style="text-align: center">二</th>
+      <th style="text-align: center">三</th>
+      <th style="text-align: center">四</th>
+      <th style="text-align: center">五</th>
+      <th style="text-align: center">六</th>
+      <th style="text-align: center">日</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">7:30-8:15</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8:25-9:10</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">集体</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">集体</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">9:40-10:25</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">备课</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">备课</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10:30-11:15</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11:45-12:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13:40-14:25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">周</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14:40-15:25</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">练</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16:55-16:40</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">16:45-17:30</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">18:00-19:00</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">19:00-20:00</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">20:10-21:05</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">21:05-22:00</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[时段 一 二 三 四 五 六 日 7:30-8:15               8:25-9:10   集体     集体     9:40-10:25 11 备课   11 备课 11   10:30-11:15 11   11     11   11:45-12:40   11   11   11   13:40-14:25   11         周 14:40-15:25   11         练 16:55-16:40         11     16:45-17:30         11     18:00-19:00 11             19:00-20:00               20:10-21:05   11 11 11 11     21:05-22:00     11 11      ]]></summary></entry><entry><title type="html">2023-2024第二学期教学进度</title><link href="http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6.html" rel="alternate" type="text/html" title="2023-2024第二学期教学进度" /><published>2024-02-22T00:00:00+08:00</published><updated>2024-02-22T00:00:00+08:00</updated><id>http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6</id><content type="html" xml:base="http://localhost:4000/2023%E8%87%B32024%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F-%E6%95%99%E5%AD%A6%E8%BF%9B%E5%BA%A6.html"><![CDATA[<h1 id="本学期教学进度">本学期教学进度</h1>
 
 <h2 id="期中">期中</h2>
 
@@ -35,7 +604,11 @@
 <ul>
   <li>函数</li>
   <li>导数</li>
-</ul>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[本学期教学进度]]></summary></entry><entry><title type="html">2024上半年课表</title><link href="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2024上半年课表" /><published>2024-02-20T00:00:00+08:00</published><updated>2024-02-20T00:00:00+08:00</updated><id>http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html"><![CDATA[<table>
+</ul>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[本学期教学进度]]></summary></entry><entry><title type="html">ncm转mp3</title><link href="http://localhost:4000/ncm-to-mp3.html" rel="alternate" type="text/html" title="ncm转mp3" /><published>2024-02-22T00:00:00+08:00</published><updated>2024-02-22T00:00:00+08:00</updated><id>http://localhost:4000/ncm-to-mp3</id><content type="html" xml:base="http://localhost:4000/ncm-to-mp3.html"><![CDATA[<p>将ncm格式转换为mp3格式的一个网站：</p>
+
+<p><a href="https://www.zhuanhuanyun.cn/">https://www.zhuanhuanyun.cn/</a></p>
+
+<p>临时转换了个伴奏，免注册登录，速度快，赞一个。</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[将ncm格式转换为mp3格式的一个网站：]]></summary></entry><entry><title type="html">2024上半年课表</title><link href="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html" rel="alternate" type="text/html" title="2024上半年课表" /><published>2024-02-20T00:00:00+08:00</published><updated>2024-02-20T00:00:00+08:00</updated><id>http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8</id><content type="html" xml:base="http://localhost:4000/2024-%E4%B8%8A%E5%8D%8A%E5%B9%B4-%E8%AF%BE%E8%A1%A8.html"><![CDATA[<table>
   <thead>
     <tr>
       <th>时段</th>
@@ -57,7 +630,7 @@
       <td>8</td>
       <td> </td>
       <td> </td>
-      <td>7:15周</td>
+      <td> </td>
     </tr>
     <tr>
       <td>8:25-9:10</td>
@@ -67,7 +640,7 @@
       <td>8</td>
       <td> </td>
       <td> </td>
-      <td>9:15练</td>
+      <td> </td>
     </tr>
     <tr>
       <td>9:40-10:25</td>
@@ -146,7 +719,7 @@
       <td> </td>
       <td> </td>
       <td> </td>
-      <td>10</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -156,7 +729,7 @@
       <td> </td>
       <td> </td>
       <td>8</td>
-      <td>10</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -166,7 +739,7 @@
       <td> </td>
       <td> </td>
       <td>10</td>
-      <td>8</td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
@@ -176,58 +749,8 @@
       <td> </td>
       <td> </td>
       <td> </td>
-      <td>8</td>
+      <td> </td>
       <td> </td>
     </tr>
   </tbody>
-</table>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[时段 一 二 三 四 五 六 日 7:30-8:15       8     7:15周 8:25-9:10   8   8     9:15练 9:40-10:25 10 10 8 10       10:40-11:25 8   10 10       11:55-12:40 8,10   8,10 8,10 8,10     13:40-14:25     8   10     14:40-15:25     10   10     15:55-16:40         8     16:50-17:40         8     18:10-19:00   10       10   19:00-19:50   10     8 10   20:00-20:55 10 8     10 8   20:55-21:50 8 8       8  ]]></summary></entry><entry><title type="html">2024,甲辰</title><link href="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html" rel="alternate" type="text/html" title="2024,甲辰" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82</id><content type="html" xml:base="http://localhost:4000/%E7%94%B2%E8%BE%B0%E6%98%A5%E8%8A%82.html"><![CDATA[<p>春节快乐！</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[春节快乐！]]></summary></entry><entry><title type="html">使用typora写Markdown格式的文档</title><link href="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html" rel="alternate" type="text/html" title="使用typora写Markdown格式的文档" /><published>2024-02-11T00:00:00+08:00</published><updated>2024-02-11T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99Markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3</id><content type="html" xml:base="http://localhost:4000/%E4%BD%BF%E7%94%A8typora%E5%86%99markdown%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%96%87%E6%A1%A3.html"><![CDATA[<h1 id="这是一级标题">这是一级标题</h1>
-
-<h2 id="这是二级标题">这是二级标题</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>标题</th>
-      <th>一</th>
-      <th>二</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>目标</td>
-      <td>三</td>
-      <td>四</td>
-    </tr>
-    <tr>
-      <td>阶段</td>
-      <td>五</td>
-      <td>六</td>
-    </tr>
-    <tr>
-      <td>错误</td>
-      <td>七</td>
-      <td>八</td>
-    </tr>
-  </tbody>
-</table>
-
-<blockquote>
-  <p>[!WARNING]</p>
-
-  <p>这是警告</p>
-</blockquote>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;?php echo "hello world!";&gt;
-</code></pre></div></div>
-
-<p>$2_23^2$</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[这是一级标题]]></summary></entry><entry><title type="html">圆球类比</title><link href="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html" rel="alternate" type="text/html" title="圆球类比" /><published>2022-05-27T00:00:00+08:00</published><updated>2022-05-27T00:00:00+08:00</updated><id>http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94</id><content type="html" xml:base="http://localhost:4000/%E7%90%83%E5%9C%86%E7%B1%BB%E6%AF%94.html"><![CDATA[<p>前几天，大学同学与我讨论的一个问题.</p>
-
-<p>已知A,B,C,D是半径为4的球面上四点，E,F分别为AB,CD的中点，AB=4√3,CD=2√7,</p>
-
-<p>则以EF为直径的球的最小表面积为__<strong>__</strong><strong>__</strong>_；</p>
-
-<p>若A,B,C,D不共面，则四面体ABCD体积的最大值为__<strong>__</strong><strong>__</strong>_.</p>
-
-<p>圆中弦长为定值时，弦的中点的轨迹仍是圆；</p>
-
-<p>球中弦长为定值，则弦的中点的轨迹为球面.</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[前几天，大学同学与我讨论的一个问题.]]></summary></entry><entry><title type="html">post文档支持中文名吗</title><link href="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html" rel="alternate" type="text/html" title="post文档支持中文名吗" /><published>2022-05-26T00:00:00+08:00</published><updated>2022-05-26T00:00:00+08:00</updated><id>http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97</id><content type="html" xml:base="http://localhost:4000/%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E5%90%8D%E5%90%97.html"><![CDATA[<p>是否可以使用含中文的文件名称，如：2022-05-26-中文名.md</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[是否可以使用含中文的文件名称，如：2022-05-26-中文名.md]]></summary></entry><entry><title type="html">新的网站</title><link href="http://localhost:4000/first.html" rel="alternate" type="text/html" title="新的网站" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>http://localhost:4000/first</id><content type="html" xml:base="http://localhost:4000/first.html"><![CDATA[<p>新网站，新思考！</p>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[新网站，新思考！]]></summary></entry></feed>
+</table>]]></content><author><name>seatop</name></author><summary type="html"><![CDATA[时段 一 二 三 四 五 六 日 7:30-8:15       8       8:25-9:10   8   8       9:40-10:25 10 10 8 10       10:40-11:25 8   10 10       11:55-12:40 8,10   8,10 8,10 8,10     13:40-14:25     8   10     14:40-15:25     10   10     15:55-16:40         8     16:50-17:40         8     18:10-19:00   10           19:00-19:50   10     8     20:00-20:55 10 8     10     20:55-21:50 8 8          ]]></summary></entry></feed>
